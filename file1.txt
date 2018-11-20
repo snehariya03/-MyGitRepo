@@ -1,7 +1,7 @@
 class HelloWorld{
 
 public static void main(){
-sysout("Hello World...+Welcome to Git");
+System.out.println("Hello World...+Welcome to Git");
 
 }
 }
