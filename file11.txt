@@ -9,3 +9,9 @@ public static void myMethod
 {
 system.out.println("my method");
 }
+
+
+public void sayHi()
+{
+sysout(hey...!!!!!!!)
+}
