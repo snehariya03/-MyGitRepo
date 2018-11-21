@@ -4,5 +4,7 @@ public static void main(){
 System.out.println("Hello World...+Welcome to Git");
 
 }
+public static void myMethod
+{
+sysout("my method");
 }
-hlw
