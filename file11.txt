@@ -2,7 +2,9 @@ class HelloWorld{
 
 public static void main(){
 System.out.println("Hello World...+Welcome to Git");
-
+sysout(myMethod());
 }
+public static void myMethod
+{
+system.out.println("my method");
 }
-hlw
